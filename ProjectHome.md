@@ -1,0 +1,1 @@
+Provides classes for manipulating various RIFF files in python.
